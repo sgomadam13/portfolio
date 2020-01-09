@@ -1,0 +1,25 @@
+.card {
+    display: block;
+    background: white;
+    text-align: center;
+    margin-top: 5rem;
+    height: 15rem;
+    margin-left: 2rem;
+    float: left;
+}
+
+.card-header {
+    background-color: #2c3e50;
+    margin: 0;
+}
+
+#card-header-link {
+    color: white;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+#color_game:hover {
+    color: #ffe5b4;
+}
